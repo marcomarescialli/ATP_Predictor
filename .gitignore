@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# Downloaded ATP data (large CSVs — fetch via src/main/resources/data/README.md)
+src/main/resources/data/*.csv
+src/main/resources/data/*.txt
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+
+# Logs / output
+*.log
+results*.csv
