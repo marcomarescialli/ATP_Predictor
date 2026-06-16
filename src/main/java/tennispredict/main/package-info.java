@@ -7,4 +7,4 @@
  * {@code app -> eval/concurrency -> model -> features -> data}. Lower layers
  * never import this one. Phase 7.
  */
-package tennispredict.app;
+package tennispredict.main;

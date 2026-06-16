@@ -43,7 +43,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.2.0</version>
                 <configuration>
-                    <mainClass>tennispredict.app.Main</mainClass>
+                    <mainClass>tennispredict.main.Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>

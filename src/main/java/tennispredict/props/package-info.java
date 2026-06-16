@@ -9,4 +9,4 @@
  *
  * <p>Dependency rule: may depend on {@code data}; nothing higher. Phase 2.
  */
-package tennispredict.features;
+package tennispredict.props;
